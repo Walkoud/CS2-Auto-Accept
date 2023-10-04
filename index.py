@@ -3,6 +3,7 @@ import pyautogui
 import time
 from colorama import Fore, Style
 import sys
+import os
 
 # Made by <3 by Walkoud
 
@@ -28,8 +29,7 @@ print(Fore.RED + Style.BRIGHT + """
 print(Fore.GREEN + "Starting in 3 seconds !" + Style.RESET_ALL)
 
 
-import os
-import sys
+
 
 def resource_path(relative_path):
     """ Get absolute path to resource, works for dev and for PyInstaller """
