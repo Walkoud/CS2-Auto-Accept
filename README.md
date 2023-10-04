@@ -10,7 +10,7 @@ Automatically accept your matches on counter strike 2
 **Download the program :**<br>
 - https://github.com/Walkoud/CS2-Auto-Accept/releases/tag/download <br><br>
 
-**Open the program, and set the game window to the front of your screen** 
+**Open the program, and set the game window CS2 to the front of your screen** 
 <br><br>
 **Now you can go to the WC to poop**
 
