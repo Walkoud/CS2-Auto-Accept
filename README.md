@@ -3,6 +3,9 @@
 
 Automatically accept your matches on counter strike 2
 
+![image](https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/abb1d920-2974-49fe-a07e-e42a731822e2)
+
+
 ## Usage
 **You need Python installed in you Windows**<br>
 - You can download easely : https://www.python.org/downloads/ <br><br>
