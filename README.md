@@ -24,6 +24,10 @@ Automatically accept your matches on counter strike 2
 - You can't be VAC ban, this program only allows you to accept a match automatically. The program makes no changes to Counter Strike 2.
 <br> <br>
 
+**Does this work in stretched 4:3 ?** <br>
+- Yes it work with all resolution
+<br><br>
+
 **My discord tag:**<br>
 - walkoud <br> <br>
 
