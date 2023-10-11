@@ -4,7 +4,6 @@ import time
 from colorama import Fore, Style
 import sys
 import os
-
 # Made by <3 by Walkoud
 
 print(Fore.RED + Style.BRIGHT + """
@@ -31,6 +30,7 @@ print(Fore.GREEN + "Starting in 3 seconds !" + Style.RESET_ALL)
 
 
 
+
 def resource_path(relative_path):
     """ Get absolute path to resource, works for dev and for PyInstaller """
     try:
@@ -51,7 +51,8 @@ def detect_and_click(image_path):
             x, y = pyautogui.locateCenterOnScreen(image_path)
             pyautogui.click(x, y)
             print(Fore.GREEN + "CLICKED IN AUTOACCEPT Successfully" + Style.RESET_ALL)
-            input("Click in the window and press a key to restart")
+            print(Fore.GREEN + "ReStarting in 3 seconds !" + Style.RESET_ALL)
+            time.sleep(3)
         except TypeError:
             print("Searching accept button... Retrying in 1 seconds...")
             time.sleep(1)
