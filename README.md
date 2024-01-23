@@ -1,5 +1,5 @@
 ![Multi_Color_Bar](https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/3f57ad10-c80c-457a-9f49-679558eb2f79)
-# CS2-Auto-Accept - Working 31/10/2023
+# CS2-Auto-Accept - Working 23/01/2024
 
 Automatically accept your matches on counter strike 2
 
