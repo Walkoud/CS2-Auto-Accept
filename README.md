@@ -34,5 +34,10 @@ Automatically accept your matches on counter strike 2
 **My discord tag:**<br>
 - walkoud <br> <br>
 
+## Test on this image
+
+![20250124123224_1](https://github.com/user-attachments/assets/33c0e8c0-3b2a-453a-a9be-aad5d7ab1890)
+
+
 ![Multi_Color_Bar](https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/3f57ad10-c80c-457a-9f49-679558eb2f79)
 
